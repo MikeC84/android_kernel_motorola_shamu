@@ -33,6 +33,8 @@ modules.builtin
 *.patch
 *.gcno
 
+build.sh
+
 #
 # Top-level generic files
 #

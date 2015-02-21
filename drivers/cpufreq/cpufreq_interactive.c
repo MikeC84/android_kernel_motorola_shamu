@@ -127,7 +127,7 @@ static u64 boostpulse_endtime;
 #define DEFAULT_TIMER_SLACK (4 * DEFAULT_TIMER_RATE)
 static int timer_slack_val = DEFAULT_TIMER_SLACK;
 
-#define DEFAULT_SCREEN_OFF_MAX 2265600
+#define DEFAULT_SCREEN_OFF_MAX 576000
 static unsigned long screen_off_max = DEFAULT_SCREEN_OFF_MAX;
 
 static bool io_is_busy;
